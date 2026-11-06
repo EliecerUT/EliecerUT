@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=700&lines=Rompo+cosas+para+que+tus+usuarios+no+lo+hagan+%F0%9F%90%9E;Automatizaci%C3%B3n+E2E+con+Playwright+%2B+TypeScript;Pipelines+que+dicen+la+verdad%2C+no+lo+que+quieres+o%C3%ADr;Calidad+como+parte+del+dise%C3%B1o%2C+no+del+final)](https://git.io/typing-svg)
 
 <p>
-  <a href="www.linkedin.com/in/eliecer-farid-ureche-0b7660179"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/eliecer-farid-ureche-0b7660179"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:elieceru.job@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/EliecerUT?tab=repositories"><img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
   <img src="https://img.shields.io/badge/Disponible-Remoto-2DD4BF?style=for-the-badge" alt="Remoto"/>
@@ -219,7 +219,7 @@ flowchart LR
 ¿Buscas a alguien que automatice con criterio y piense en la calidad como un todo?
 
 [![Email](https://img.shields.io/badge/Escríbeme-elieceru.job@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elieceru.job@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Conectemos-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eliecer-farid-ureche-0b7660179)
+[![LinkedIn](https://img.shields.io/badge/Conectemos-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.comwww.linkedin.com/in/eliecer-farid-ureche-0b7660179)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
 
