@@ -110,47 +110,30 @@ const eliecer = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎭 playwright-e2e-framework
-Framework E2E de referencia con arquitectura por capas.
+### 🎭 sauce-demo-qa
+Proyecto E2E con Playwright + TypeScript sobre Saucedemo.
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-- Page Object Model + fixtures personalizados
-- Ejecución paralela, reintentos y trazas
-- Reporte HTML publicado en GitHub Pages
-- Pipeline en cada Pull Request
-- Features legibles por negocio y producto
-- Tags por suite (smoke / regression)
-- Datos de prueba desacoplados
+- Page Object Model
+- (deja solo lo que sea cierto en el repo)
 
-[📂 Ver repositorio](https://github.com/EliecerUT/sauce-demo-qa.git)
+[📂 Ver repositorio](https://github.com/EliecerUT/sauce-demo-qa)
 
-## Coming soon
+</td>
+<td width="50%" valign="top">
 
-### 🔌 api-testing-playwright-postman
+### 🔌 api-testing-playwright-postman · *Próximamente*
 Pruebas de contrato y regresión de API.
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-- Colecciones Postman + Newman en CI
-- Validación de esquemas y códigos de estado
-- Escenarios positivos, negativos y de borde
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ k6-performance-starter
-Plantilla de pruebas de carga con umbrales (*thresholds*).
+### ⚡ k6-performance-starter · *Próximamente*
+Pruebas de carga con umbrales (*thresholds*).
 
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-- Escenarios smoke / load / stress
-- Umbrales que rompen el pipeline si se degradan
-- Ejecución programada en CI
 
 </td>
 </tr>
