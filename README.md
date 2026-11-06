@@ -116,8 +116,13 @@ Proyecto E2E con Playwright + TypeScript sobre Saucedemo.
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- Page Object Model
-- (deja solo lo que sea cierto en el repo)
+- Page Object Model + fixtures personalizados
+- Ejecución paralela, reintentos y trazas
+- Reporte HTML publicado en GitHub Pages
+- Pipeline en cada Pull Request
+- Features legibles por negocio y producto
+- Tags por suite (smoke / regression)
+- Datos de prueba desacoplados
 
 [📂 Ver repositorio](https://github.com/EliecerUT/sauce-demo-qa)
 
