@@ -185,10 +185,9 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EliecerUT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliecerUT&layout=compact&theme=tokyonight&hide_border=true" alt="lenguajes"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EliecerUT&theme=tokyonight&hide_border=true" alt="streak"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=EliecerUT&theme=tokyonight&hide_border=true" alt="streak"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EliecerUT&theme=tokyonight" alt="resumen"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EliecerUT&theme=tokyonight" alt="lenguajes"/>
 
 </div>
 
