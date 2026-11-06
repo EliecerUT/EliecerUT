@@ -96,7 +96,7 @@ const eliecer = {
 |---|---|---|
 | **Automatización E2E** | Diseño suites con Playwright + TypeScript + Cucumber (BDD) usando Page Object Model | Más de 60 casos de pruebas en flujos críticos |
 | **CI/CD** | Integro la ejecución de pruebas en pipelines de GitHub Actions | Reducción del 90% en tiempos de ejecución de casos de regresión |
-| **API Testing** | Diseño y ejecuto colecciones en Postman; reporto y doy seguimiento a defectos | Se detectaron huecos de seguridad en los servicios de obtención de datos (Métodos GET) |
+| **API Testing** | Diseño y ejecuto colecciones en Postman; reporto y doy seguimiento a defectos | Detección de defectos de validación y autorización en endpoints GET |
 | **Requerimientos** | Analizo requerimientos funcionales y defino escenarios para detectar defectos temprano | Shift-left en el ciclo de desarrollo |
 | **IA en QA** | Uso LLMs para apoyar diseño, mantenimiento y análisis de pruebas | Menos tiempo en tareas repetitivas |
 
