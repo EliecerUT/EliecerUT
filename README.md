@@ -12,11 +12,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=700&lines=Rompo+cosas+para+que+tus+usuarios+no+lo+hagan+%F0%9F%90%9E;Automatizaci%C3%B3n+E2E+con+Playwright+%2B+TypeScript;Pipelines+que+dicen+la+verdad%2C+no+lo+que+quieres+o%C3%ADr;Calidad+como+parte+del+dise%C3%B1o%2C+no+del+final)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/EliecerUT"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:elieceru.job@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/TU_USUARIO?tab=repositories"><img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+  <a href="https://github.com/EliecerUT?tab=repositories"><img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
   <img src="https://img.shields.io/badge/Disponible-Remoto-2DD4BF?style=for-the-badge" alt="Remoto"/>
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=for-the-badge" alt="visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=EliecerUT&label=Visitas&color=0e75b6&style=for-the-badge" alt="visitas"/>
 </p>
 
 </div>
@@ -88,16 +88,15 @@ const eliecer = {
 
 ## 💼 Experiencia
 
-### 🧪 QA Engineer · MAGIC LOG S.A.P.I de C.V. · `2024 — Presente` · Remoto
+### 🧪 QA Engineer · MAGIC LOG S.A.P.I de C.V. (2024 — Presente) · Remoto
 
 > Plataforma de logística y carga internacional: documentos de embarque (MAWB/HAWB), análisis de rentabilidad de embarques, ambientes de staging y despliegue continuo.
 
 | Área | Qué hago | Impacto |
 |---|---|---|
-| **Automatización E2E** | Diseño suites con Playwright + TypeScript + Cucumber (BDD) usando Page Object Model | `[COMPLETAR: # escenarios / % del regresivo cubierto]` |
-| **CI/CD** | Integro la ejecución de pruebas en pipelines de GitHub Actions | `[COMPLETAR: tiempo de regresión antes → después]` |
-| **API Testing** | Diseño y ejecuto colecciones en Postman; reporto y doy seguimiento a defectos | `[COMPLETAR: # bugs detectados antes de producción]` |
-| **Calidad & métricas** | Analizo resultados, inestabilidades y cobertura para priorizar mejoras | `[COMPLETAR: reducción de flaky tests]` |
+| **Automatización E2E** | Diseño suites con Playwright + TypeScript + Cucumber (BDD) usando Page Object Model | Más de 60 casos de pruebas en flujos criticos` |
+| **CI/CD** | Integro la ejecución de pruebas en pipelines de GitHub Actions | `Reducción del 90% en tiempos de ejecución de casos de regresión |
+| **API Testing** | Diseño y ejecuto colecciones en Postman; reporto y doy seguimiento a defectos | Se detectaron huecos de seguridad en los servicios de obtención de datos (Métodos Get) |
 | **Requerimientos** | Analizo requerimientos funcionales y defino escenarios para detectar defectos temprano | Shift-left en el ciclo de desarrollo |
 | **IA en QA** | Uso LLMs para apoyar diseño, mantenimiento y análisis de pruebas | Menos tiempo en tareas repetitivas |
 
@@ -122,28 +121,13 @@ Framework E2E de referencia con arquitectura por capas.
 - Ejecución paralela, reintentos y trazas
 - Reporte HTML publicado en GitHub Pages
 - Pipeline en cada Pull Request
-
-[📂 Ver repositorio](https://github.com/TU_USUARIO/playwright-e2e-framework)
-
-</td>
-<td width="50%" valign="top">
-
-### 🥒 playwright-bdd-cucumber
-Pruebas BDD con Gherkin, steps reutilizables y reportes.
-
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
 - Features legibles por negocio y producto
 - Tags por suite (smoke / regression)
 - Datos de prueba desacoplados
 
-[📂 Ver repositorio](https://github.com/TU_USUARIO/playwright-bdd-cucumber)
+[📂 Ver repositorio](https://github.com/EliecerUT/sauce-demo-qa.git)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## Comming soon
 
 ### 🔌 api-testing-playwright-postman
 Pruebas de contrato y regresión de API.
@@ -155,7 +139,7 @@ Pruebas de contrato y regresión de API.
 - Validación de esquemas y códigos de estado
 - Escenarios positivos, negativos y de borde
 
-[📂 Ver repositorio](https://github.com/TU_USUARIO/api-testing-playwright-postman)
+[📂 Ver repositorio](https://github.com/EliecerUT/api-testing-playwright-postman)
 
 </td>
 <td width="50%" valign="top">
@@ -170,7 +154,7 @@ Plantilla de pruebas de carga con umbrales (*thresholds*).
 - Umbrales que rompen el pipeline si se degradan
 - Ejecución programada en CI
 
-[📂 Ver repositorio](https://github.com/TU_USUARIO/k6-performance-starter)
+[📂 Ver repositorio](https://github.com/EliecerUT/k6-performance-starter)
 
 </td>
 </tr>
@@ -201,10 +185,10 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="lenguajes"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EliecerUT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliecerUT&layout=compact&theme=tokyonight&hide_border=true" alt="lenguajes"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EliecerUT&theme=tokyonight&hide_border=true" alt="streak"/>
 
 </div>
 
@@ -235,7 +219,7 @@ flowchart LR
 ¿Buscas a alguien que automatice con criterio y piense en la calidad como un todo?
 
 [![Email](https://img.shields.io/badge/Escríbeme-elieceru.job@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elieceru.job@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Conectemos-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/Conectemos-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eliecer-farid-ureche-0b7660179)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
 
