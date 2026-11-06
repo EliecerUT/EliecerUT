@@ -127,7 +127,7 @@ Framework E2E de referencia con arquitectura por capas.
 
 [📂 Ver repositorio](https://github.com/EliecerUT/sauce-demo-qa.git)
 
-## Comming soon
+## Coming soon
 
 ### 🔌 api-testing-playwright-postman
 Pruebas de contrato y regresión de API.
@@ -138,8 +138,6 @@ Pruebas de contrato y regresión de API.
 - Colecciones Postman + Newman en CI
 - Validación de esquemas y códigos de estado
 - Escenarios positivos, negativos y de borde
-
-[📂 Ver repositorio](https://github.com/EliecerUT/api-testing-playwright-postman)
 
 </td>
 <td width="50%" valign="top">
@@ -153,8 +151,6 @@ Plantilla de pruebas de carga con umbrales (*thresholds*).
 - Escenarios smoke / load / stress
 - Umbrales que rompen el pipeline si se degradan
 - Ejecución programada en CI
-
-[📂 Ver repositorio](https://github.com/EliecerUT/k6-performance-starter)
 
 </td>
 </tr>
@@ -218,7 +214,7 @@ flowchart LR
 ¿Buscas a alguien que automatice con criterio y piense en la calidad como un todo?
 
 [![Email](https://img.shields.io/badge/Escríbeme-elieceru.job@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elieceru.job@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Conectemos-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.comwww.linkedin.com/in/eliecer-farid-ureche-0b7660179)
+[![LinkedIn](https://img.shields.io/badge/Conectemos-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliecer-farid-ureche-0b7660179)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
 
